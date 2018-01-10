@@ -1,3 +1,3 @@
 # hello-world
-1st time use
-Readme Branch Edit
+1st time use of GitHub
+
